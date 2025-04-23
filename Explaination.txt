@@ -1,0 +1,23 @@
+Experiment 1: Design a Web Page with HTML and CSS
+Objective
+To design and implement a static, responsive web page using HTML and CSS.
+Tools Required
+Text Editor (VS Code/Atom/Notepad++)
+Browser (Google Chrome/Mozilla Firefox)
+Task
+Create a web page for a personal portfolio.
+Include the following sections:
+Header with navigation bar.
+About Me section.
+Projects section.
+Contact Form.
+Style the web page using CSS for:
+Font styles and sizes.
+Color schemes.
+Responsive layout using media queries.
+Instructions
+Create an HTML file (index.html).
+Write the basic structure of an HTML document.
+Use semantic elements like <header>, <section>, <nav>, <footer>, etc.
+Create a CSS file (style.css) and link it to the HTML file.
+Write CSS rules to style the page and make it responsive.
